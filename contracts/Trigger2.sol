@@ -75,7 +75,7 @@ contract Trigger2 is Ownable {
     // address constant cakeFactory = 0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f;
     
     address payable private administrator;
-    address private sandwichRouter = 0xE86d6A7549cFF2536918a206b6418DE0baE95e99;
+    address private sandwichRouter = 0x6dD3094FaCcaE72CdBB7Adf2209dD2EAaB5aC37d;
     uint private wbnbIn;
     uint private minTknOut;
     address private tokenToBuy;
